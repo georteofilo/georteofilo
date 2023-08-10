@@ -1,6 +1,11 @@
 ## Olá! Eu sou George Rocha Teofilo
+Densenvolvedor de Software com foco em BackEnd
 
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=georteofilo&show_icons=true&theme=gotham"/> </a>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=georteofilo&theme=gotham&line_height=40&hide=css"/> </a>
+
+
+
 
 <!--
 **georteofilo/georteofilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
