@@ -1,4 +1,4 @@
-## Olá! Eu sou George Rocha Teofilo
+## Olá! Eu sou George Rocha Teofilo ☺️
 Desenvolvedor de Software com foco em BackEnd
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=georteofilo&show_icons=true&theme=gotham"/> </a>
