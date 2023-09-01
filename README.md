@@ -32,7 +32,7 @@
   
   **♿  PCD - Transtorno do Espectro Autista (TEA) - F84/CID 10**
   
-  🧠🌈♾️ Aos meus 31 anos recebi meu diagnostico de Transtorno do Espectro Autista (TEA) - F84/CID 10 - Infelizmente sem meu diagnostico tive dificuldade em lidar com minha mente devido a isto tive problemas pessoais e dificuldades para lidar comigo mesmo. Hoje     tenho meu diagnostico, acompanhamento médico e tenho total confiança em minhas capacidades e adaptação com o mundo atual. Tenho certeza que posso agregar e ser um otimo auxilio.
+  🧠🌈♾️ Aos meus 31 anos recebi meu diagnostico de Transtorno do Espectro Autista (TEA) - F84/CID 10 - Infelizmente sem meu diagnostico tive dificuldade em lidar com minha mente, devido a isto tive problemas pessoais e dificuldades para lidar comigo mesmo. Hoje     tenho meu diagnostico, acompanhamento médico e tenho total confiança em minhas capacidades e adaptação com o mundo atual. Tenho certeza que posso agregar e ser um otimo auxilio.
 
 
 ## Eu já trabalhei com... 🔧
