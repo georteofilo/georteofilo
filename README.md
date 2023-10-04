@@ -1,43 +1,23 @@
 ## Olá! Eu sou George Rocha Teofilo 😊
 💻 Desenvolvedor de Software com foco em BackEnd
 
+## Sobre Mim... 🧐
+
 ### Meus Cursos... 📚
   🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) pela [Cubos Academy](https://cubos.academy/) com parceria pela [Ifood](https://www.linkedin.com/company/ifood-/)
   
   🎓 Formado em Técnico de Informática pelo [Senac - Montes Claros - MG](https://www.mg.senac.br/Paginas/default.aspx)
-
-### Sobre Mim... 🧐
+  
 
   **🔎 Também sou curioso sobre:**
   
    - Area de Front-end
-  
-   - Analise de dados
+     
+   - Analise de dados e Bancos de Dados:
   
    - Desenvolvimento Mobile
 
-  
- **✒️ Eu gosto de:**
-  
-   - Jogos 🎮
-      
-   - Filmes 🎦
-      
-   - Animes 🎌
-      
-   - Quebra Cabeças 🧩 
-      
-   - Jogos de tabuleiro 🎲
-      
-  
-  **♿  PCD - Transtorno do Espectro Autista (TEA) - F84/CID 10**
-  
-  🧠🌈♾️ Aos meus 31 anos recebi meu diagnostico de Transtorno do Espectro Autista (TEA) - F84/CID 10 - Infelizmente sem meu diagnostico tive dificuldade em lidar com minha mente, devido a isto tive problemas pessoais e dificuldades para lidar comigo mesmo. Hoje     tenho meu diagnostico, acompanhamento médico e tenho total confiança em minhas capacidades e adaptação com o mundo atual. Tenho certeza que posso agregar e ser um otimo auxilio.
-
-
-## Eu já trabalhei com... 🔧
-
-**Tecnologias e Ferramentas**
+## Tecnologias que conheço e Ferramentas 🔧
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,7 +30,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Eu estou estudando... 🧩
-<!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -61,7 +40,6 @@
 <div>
   <a href="https://github.com/georteofilo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georteofilo&layout=compact&langs_count=7&theme=gotham"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georteofilo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
