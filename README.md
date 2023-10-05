@@ -2,6 +2,8 @@
 💻 Desenvolvedor de Software com foco em BackEnd
 
 ## Sobre Mim... 🧐
+  
+  Me chamo George, tenho 35 anos e sou natural de Montes Claros - MG, onde residuo atualmente. Comecei na area de tecnologia tem apenas 2 anos, quando comecei um curso tecnico de informatica no Senac. Estou amando a área e sinto que agora encontrei realmente meu caminho. 
 
 ### Meus Cursos... 📚
   🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) pela [Cubos Academy](https://cubos.academy/) com parceria pela [Ifood](https://www.linkedin.com/company/ifood-/)
@@ -13,7 +15,7 @@
   
    - Area de Front-end
      
-   - Analise de dados e Bancos de Dados:
+   - Analise de dados e Bancos de Dados
   
    - Desenvolvimento Mobile
 
