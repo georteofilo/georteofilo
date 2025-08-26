@@ -1,5 +1,5 @@
 ## Olá! Eu sou George Rocha Teofilo 😊
-💻 Desenvolvedor Full-Stack
+💻 Desenvolvedor Backend
 
 ## Sobre Mim... 🧐
   
