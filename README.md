@@ -1,48 +1,40 @@
-## Olá! Eu sou George Rocha Teofilo 😊
-💻 Desenvolvedor Backend
+<p>
+  <img align="right" width="250" src="./assets/img-git-readme.jpg" />
 
-## Sobre Mim... 🧐
-  
-  Me chamo George, tenho 35 anos e sou natural de Montes Claros - MG, onde residuo atualmente. Comecei na area de tecnologia tem apenas 2 anos, quando comecei um curso tecnico de informatica no Senac. Estou amando a área e sinto que agora encontrei realmente meu caminho. 
+  ### Olá! Eu sou George Rocha Teofilo 😊
+  💻 Desenvolvedor Backend e Cloud
 
-### Meus Cursos... 📚
-  🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) pela [Cubos Academy](https://cubos.academy/) com parceria pela [Ifood](https://www.linkedin.com/company/ifood-/)
-  
-  🎓 Formado em Técnico de Informática pelo [Senac - Montes Claros - MG](https://www.mg.senac.br/Paginas/default.aspx)
-  
+  Desenvolvedor Backend com 2 anos de experiência em aprendizado contínuo. Apaixonado por lógica, dados e construção de sistemas escaláveis.
 
-  **🔎 Também sou curioso sobre:**
+  ### Meus Cursos... 📚
+  🎓 [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software-v2) - Backend
   
-   - Area de Front-end
-     
-   - Analise de dados e Bancos de Dados
-  
-   - Desenvolvimento Mobile
+  🎓 [Senac - Montes Claros - MG](https://www.mg.senac.br/Paginas/default.aspx) - Técnico de Informática
+</p>
 
-## Tecnologias que conheço e Ferramentas 🔧
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### Tecnologias que conheço 🔧
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Eu estou estudando... 🧩
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Tecnologias que estou estudando 🧩
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/supertest-%23C21325.svg?style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078d4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 
 ### GitHub Stats ⚡
-<div>
-  <a href="https://github.com/georteofilo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georteofilo&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georteofilo&layout=compact&langs_count=5&theme=gotham)
 
 ### Entre em contato comigo! 📭
 <div>
